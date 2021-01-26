@@ -3,7 +3,7 @@ import random
 import time
 import asyncio
 import datetime
-TOKEN = "NDkxMDUwODYyMjk1Mzg0MDc0.DoCOiQ.r-ZRH49o_SviTL3MRl4FAFHEAeI"
+TOKEN = ""
 client = discord.Client()
 count = 0
 
